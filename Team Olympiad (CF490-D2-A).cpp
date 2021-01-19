@@ -3,24 +3,26 @@ using namespace std;
  
 int main(){
   int n;
-  int arr[n];
-  string x = ""; string y = ""; string z = "";
-  int length, element;
   cin>>n;
+  std::vector< int > x;
+  std::vector< int > y;
+  std::vector< int > z;
+  int length, element;
+
   
   for(int i = 0;i<n;i++){
     cin>>element;
     if(element == 1){
-      x += to_string(i+1);
+      x.push_back(i+1);
     }else if(element == 2){
-      y += to_string(i+1); 
+      y.push_back(i+1);
     }else{
-      z += to_string(i+1);
+      z.push_back(i+1);
     }
   }
-length = min(x.length(), min(y.length(),z.length()));
+length = min(x.size(), min(y.size(),z.size()));
 cout<<length<<endl;
- 
+
   for(int i = 0;i<length; i++){
     cout<<x[i]<<" " << y[i]<< " " << z[i]<<endl;
   }
