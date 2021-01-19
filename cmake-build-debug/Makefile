@@ -142,32 +142,32 @@ competitiveprogramming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/build
 .PHONY : competitiveprogramming/fast
 
-Team_Olympiad_(CF490-D2-A).obj: Team_Olympiad_(CF490-D2-A).cpp.obj
+doneProblems/Team_Olympiad_(CF490-D2-A).obj: doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj
 
-.PHONY : Team_Olympiad_(CF490-D2-A).obj
+.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).obj
 
 # target to build an object file
-Team_Olympiad_(CF490-D2-A).cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/Team_Olympiad_(CF490-D2-A).cpp.obj
-.PHONY : Team_Olympiad_(CF490-D2-A).cpp.obj
+doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj
+.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj
 
-Team_Olympiad_(CF490-D2-A).i: Team_Olympiad_(CF490-D2-A).cpp.i
+doneProblems/Team_Olympiad_(CF490-D2-A).i: doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i
 
-.PHONY : Team_Olympiad_(CF490-D2-A).i
+.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).i
 
 # target to preprocess a source file
-Team_Olympiad_(CF490-D2-A).cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/Team_Olympiad_(CF490-D2-A).cpp.i
-.PHONY : Team_Olympiad_(CF490-D2-A).cpp.i
+doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i
+.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i
 
-Team_Olympiad_(CF490-D2-A).s: Team_Olympiad_(CF490-D2-A).cpp.s
+doneProblems/Team_Olympiad_(CF490-D2-A).s: doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s
 
-.PHONY : Team_Olympiad_(CF490-D2-A).s
+.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).s
 
 # target to generate assembly for a file
-Team_Olympiad_(CF490-D2-A).cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/Team_Olympiad_(CF490-D2-A).cpp.s
-.PHONY : Team_Olympiad_(CF490-D2-A).cpp.s
+doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s
+.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... competitiveprogramming
-	@echo ... Team_Olympiad_(CF490-D2-A).obj
-	@echo ... Team_Olympiad_(CF490-D2-A).i
-	@echo ... Team_Olympiad_(CF490-D2-A).s
+	@echo ... doneProblems/Team_Olympiad_(CF490-D2-A).obj
+	@echo ... doneProblems/Team_Olympiad_(CF490-D2-A).i
+	@echo ... doneProblems/Team_Olympiad_(CF490-D2-A).s
 .PHONY : help
 
 

@@ -4,4 +4,4 @@ project(competitiveprogramming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(competitiveprogramming
-        "Team Olympiad (CF490-D2-A).cpp")
+        "../doneProblems/Team Olympiad (CF490-D2-A).cpp")
