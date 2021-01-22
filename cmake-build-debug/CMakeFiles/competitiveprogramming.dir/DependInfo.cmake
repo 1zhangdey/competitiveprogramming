@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Team Olympiad (CF490-D2-A).cpp" "C:/Users/deyiz/CLionProjects/competitiveprogramming/cmake-build-debug/CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj"
+  "C:/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland Mail (CF567-D2-A).cpp" "C:/Users/deyiz/CLionProjects/competitiveprogramming/cmake-build-debug/CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

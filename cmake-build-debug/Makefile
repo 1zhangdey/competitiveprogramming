@@ -67,7 +67,7 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\deyiz\CLionProjects\competitiveprogramming
+CMAKE_SOURCE_DIR = C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug
@@ -142,32 +142,32 @@ competitiveprogramming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/build
 .PHONY : competitiveprogramming/fast
 
-doneProblems/Team_Olympiad_(CF490-D2-A).obj: doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).obj: C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj
 
-.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).obj
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).obj
 
 # target to build an object file
-doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj
-.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj
 
-doneProblems/Team_Olympiad_(CF490-D2-A).i: doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).i: C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i
 
-.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).i
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).i
 
 # target to preprocess a source file
-doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i
-.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i
 
-doneProblems/Team_Olympiad_(CF490-D2-A).s: doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).s: C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s
 
-.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).s
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).s
 
 # target to generate assembly for a file
-doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s
-.PHONY : doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... competitiveprogramming
-	@echo ... doneProblems/Team_Olympiad_(CF490-D2-A).obj
-	@echo ... doneProblems/Team_Olympiad_(CF490-D2-A).i
-	@echo ... doneProblems/Team_Olympiad_(CF490-D2-A).s
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).obj
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).i
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).s
 .PHONY : help
 
 

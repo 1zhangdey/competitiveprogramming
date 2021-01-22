@@ -80,10 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Team Olympiad (CF490-D2-A).cpp">
+		<Unit filename="C:/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland Mail (CF567-D2-A).cpp">
 			<Option target="competitiveprogramming"/>
 		</Unit>
-		<Unit filename="C:/Users/deyiz/CLionProjects/competitiveprogramming/CMakeLists.txt">
+		<Unit filename="C:/Users/deyiz/CLionProjects/competitiveprogramming/cmake-build-debug/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

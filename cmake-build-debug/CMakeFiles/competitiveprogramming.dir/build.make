@@ -62,7 +62,7 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\deyiz\CLionProjects\competitiveprogramming
+CMAKE_SOURCE_DIR = C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug
@@ -76,27 +76,27 @@ include CMakeFiles/competitiveprogramming.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/competitiveprogramming.dir/flags.make
 
-CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj: CMakeFiles/competitiveprogramming.dir/flags.make
-CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj: ../doneProblems/Team\ Olympiad\ (CF490-D2-A).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\competitiveprogramming.dir\doneProblems\Team_Olympiad_(CF490-D2-A).cpp.obj -c "C:\Users\deyiz\CLionProjects\competitiveprogramming\doneProblems\Team Olympiad (CF490-D2-A).cpp"
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj: CMakeFiles/competitiveprogramming.dir/flags.make
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj: C:/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland\ Mail\ (CF567-D2-A).cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\doneProblems\Lineland_Mail_(CF567-D2-A).cpp.obj -c "C:\Users\deyiz\CLionProjects\competitiveprogramming\doneProblems\Lineland Mail (CF567-D2-A).cpp"
 
-CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\deyiz\CLionProjects\competitiveprogramming\doneProblems\Team Olympiad (CF490-D2-A).cpp" > CMakeFiles\competitiveprogramming.dir\doneProblems\Team_Olympiad_(CF490-D2-A).cpp.i
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\deyiz\CLionProjects\competitiveprogramming\doneProblems\Lineland Mail (CF567-D2-A).cpp" > CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\doneProblems\Lineland_Mail_(CF567-D2-A).cpp.i
 
-CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\deyiz\CLionProjects\competitiveprogramming\doneProblems\Team Olympiad (CF490-D2-A).cpp" -o CMakeFiles\competitiveprogramming.dir\doneProblems\Team_Olympiad_(CF490-D2-A).cpp.s
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\deyiz\CLionProjects\competitiveprogramming\doneProblems\Lineland Mail (CF567-D2-A).cpp" -o CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\doneProblems\Lineland_Mail_(CF567-D2-A).cpp.s
 
 # Object files for target competitiveprogramming
 competitiveprogramming_OBJECTS = \
-"CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj"
+"CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj"
 
 # External object files for target competitiveprogramming
 competitiveprogramming_EXTERNAL_OBJECTS =
 
-competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/doneProblems/Team_Olympiad_(CF490-D2-A).cpp.obj
+competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj
 competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/build.make
 competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/linklibs.rsp
 competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/objects1.rsp
@@ -114,6 +114,6 @@ CMakeFiles/competitiveprogramming.dir/clean:
 .PHONY : CMakeFiles/competitiveprogramming.dir/clean
 
 CMakeFiles/competitiveprogramming.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\deyiz\CLionProjects\competitiveprogramming C:\Users\deyiz\CLionProjects\competitiveprogramming C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug\CMakeFiles\competitiveprogramming.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug\CMakeFiles\competitiveprogramming.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/competitiveprogramming.dir/depend
 
