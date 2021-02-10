@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj"
+  "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.obj"
   "competitiveprogramming.exe"
   "competitiveprogramming.exe.manifest"
   "competitiveprogramming.pdb"

@@ -142,32 +142,32 @@ competitiveprogramming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/build
 .PHONY : competitiveprogramming/fast
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).obj: C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.obj: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.obj
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).obj
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.obj
 
 # target to build an object file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.obj"
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.obj
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).i: C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.i: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.i
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).i
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.i
 
 # target to preprocess a source file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.i"
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.i
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).s: C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.s: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.s
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).s
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.s
 
 # target to generate assembly for a file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.s"
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... competitiveprogramming
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).obj
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).i
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/Lineland_Mail_(CF567-D2-A).s
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.obj
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.i
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.s
 .PHONY : help
 
 

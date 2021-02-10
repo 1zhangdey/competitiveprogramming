@@ -4,4 +4,4 @@ project(competitiveprogramming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(competitiveprogramming
-        "../doneProblems/Lineland Mail (CF567-D2-A).cpp")
+        "../CCC '20 S1 - Surmising a Sprinter's Speed.cpp")
