@@ -22,6 +22,5 @@ int main(){
             totalTime = bank;
         }
     }
-    cout.precision(10);
-    cout<<totalTime;
+    printf("%.6lf\n", totalTime);
 }

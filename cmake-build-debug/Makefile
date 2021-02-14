@@ -142,32 +142,32 @@ competitiveprogramming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/build
 .PHONY : competitiveprogramming/fast
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.obj: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.obj: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.obj
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.obj
 
 # target to build an object file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.obj"
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj"
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.i: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.i: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.i
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.i
 
 # target to preprocess a source file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.i"
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i"
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.s: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.s: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.s
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.s
 
 # target to generate assembly for a file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.s"
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s"
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... competitiveprogramming
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.obj
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.i
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'20_S1_-_Surmising_a_Sprinter's_Speed.s
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.obj
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.i
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.s
 .PHONY : help
 
 
