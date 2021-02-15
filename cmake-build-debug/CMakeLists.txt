@@ -4,4 +4,4 @@ project(competitiveprogramming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(competitiveprogramming
-        "../CCC '19 S1 - Flipper.cpp")
+        "../CCC '17 S1 - Sum Game.cpp")

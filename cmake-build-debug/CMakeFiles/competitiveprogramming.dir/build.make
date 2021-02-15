@@ -76,27 +76,27 @@ include CMakeFiles/competitiveprogramming.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/competitiveprogramming.dir/flags.make
 
-CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj: CMakeFiles/competitiveprogramming.dir/flags.make
-CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj: C:/Users/deyiz/CLionProjects/competitiveprogramming/CCC\ '19\ S1\ -\ Flipper.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\CCC_'19_S1_-_Flipper.cpp.obj" -c "C:\Users\deyiz\CLionProjects\competitiveprogramming\CCC '19 S1 - Flipper.cpp"
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj: CMakeFiles/competitiveprogramming.dir/flags.make
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj: C:/Users/deyiz/CLionProjects/competitiveprogramming/CCC\ '17\ S1\ -\ Sum\ Game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\CCC_'17_S1_-_Sum_Game.cpp.obj" -c "C:\Users\deyiz\CLionProjects\competitiveprogramming\CCC '17 S1 - Sum Game.cpp"
 
-CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\deyiz\CLionProjects\competitiveprogramming\CCC '19 S1 - Flipper.cpp" > "CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\CCC_'19_S1_-_Flipper.cpp.i"
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\deyiz\CLionProjects\competitiveprogramming\CCC '17 S1 - Sum Game.cpp" > "CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\CCC_'17_S1_-_Sum_Game.cpp.i"
 
-CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\deyiz\CLionProjects\competitiveprogramming\CCC '19 S1 - Flipper.cpp" -o "CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\CCC_'19_S1_-_Flipper.cpp.s"
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\deyiz\CLionProjects\competitiveprogramming\CCC '17 S1 - Sum Game.cpp" -o "CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\CCC_'17_S1_-_Sum_Game.cpp.s"
 
 # Object files for target competitiveprogramming
 competitiveprogramming_OBJECTS = \
-"CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj"
+"CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj"
 
 # External object files for target competitiveprogramming
 competitiveprogramming_EXTERNAL_OBJECTS =
 
-competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj
+competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj
 competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/build.make
 competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/linklibs.rsp
 competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/objects1.rsp

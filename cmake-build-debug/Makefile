@@ -142,32 +142,32 @@ competitiveprogramming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/build
 .PHONY : competitiveprogramming/fast
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.obj: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.obj: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.obj
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.obj
 
 # target to build an object file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj"
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj"
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.i: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.i: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.i
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.i
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.i
 
 # target to preprocess a source file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i"
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.i"
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.i
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.s: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.s: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.s
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.s
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.s
 
 # target to generate assembly for a file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s"
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.s"
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... competitiveprogramming
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.obj
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.i
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.s
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.obj
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.i
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.s
 .PHONY : help
 
 

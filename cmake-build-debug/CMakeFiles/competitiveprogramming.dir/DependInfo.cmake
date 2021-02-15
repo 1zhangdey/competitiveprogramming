@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/deyiz/CLionProjects/competitiveprogramming/CCC '19 S1 - Flipper.cpp" "C:/Users/deyiz/CLionProjects/competitiveprogramming/cmake-build-debug/CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'19_S1_-_Flipper.cpp.obj"
+  "C:/Users/deyiz/CLionProjects/competitiveprogramming/CCC '17 S1 - Sum Game.cpp" "C:/Users/deyiz/CLionProjects/competitiveprogramming/cmake-build-debug/CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'17_S1_-_Sum_Game.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
