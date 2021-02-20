@@ -142,32 +142,32 @@ competitiveprogramming/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/build
 .PHONY : competitiveprogramming/fast
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.obj: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).obj: C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.obj
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).obj
 
 # target to build an object file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.obj"
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.obj
+C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.i: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).i: C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.i
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.i
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).i
 
 # target to preprocess a source file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.i"
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.i
+C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.i
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.i
 
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.s: C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).s: C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.s
 
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.s
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).s
 
 # target to generate assembly for a file
-C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.s"
-.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.s
+C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\competitiveprogramming.dir\build.make CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.s
+.PHONY : C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... competitiveprogramming
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.obj
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.i
-	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.s
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).obj
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).i
+	@echo ... C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).s
 .PHONY : help
 
 

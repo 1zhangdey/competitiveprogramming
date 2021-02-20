@@ -76,27 +76,27 @@ include CMakeFiles/competitiveprogramming.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/competitiveprogramming.dir/flags.make
 
-CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.obj: CMakeFiles/competitiveprogramming.dir/flags.make
-CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.obj: C:/Users/deyiz/CLionProjects/competitiveprogramming/CCC\ '16\ S1\ -\ Ragaman.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\CCC_'16_S1_-_Ragaman.cpp.obj" -c "C:\Users\deyiz\CLionProjects\competitiveprogramming\CCC '16 S1 - Ragaman.cpp"
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj: CMakeFiles/competitiveprogramming.dir/flags.make
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj: C:/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower\ (CF767-D2-A).cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\deyiz\CLionProjects\competitiveprogramming\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\Snacktower_(CF767-D2-A).cpp.obj -c "C:\Users\deyiz\CLionProjects\competitiveprogramming\Snacktower (CF767-D2-A).cpp"
 
-CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\deyiz\CLionProjects\competitiveprogramming\CCC '16 S1 - Ragaman.cpp" > "CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\CCC_'16_S1_-_Ragaman.cpp.i"
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\deyiz\CLionProjects\competitiveprogramming\Snacktower (CF767-D2-A).cpp" > CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\Snacktower_(CF767-D2-A).cpp.i
 
-CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\deyiz\CLionProjects\competitiveprogramming\CCC '16 S1 - Ragaman.cpp" -o "CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\CCC_'16_S1_-_Ragaman.cpp.s"
+CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\deyiz\CLionProjects\competitiveprogramming\Snacktower (CF767-D2-A).cpp" -o CMakeFiles\competitiveprogramming.dir\C_\Users\deyiz\CLionProjects\competitiveprogramming\Snacktower_(CF767-D2-A).cpp.s
 
 # Object files for target competitiveprogramming
 competitiveprogramming_OBJECTS = \
-"CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.obj"
+"CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj"
 
 # External object files for target competitiveprogramming
 competitiveprogramming_EXTERNAL_OBJECTS =
 
-competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/CCC_'16_S1_-_Ragaman.cpp.obj
+competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj
 competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/build.make
 competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/linklibs.rsp
 competitiveprogramming.exe: CMakeFiles/competitiveprogramming.dir/objects1.rsp
