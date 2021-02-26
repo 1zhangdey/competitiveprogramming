@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/Snacktower_(CF767-D2-A).cpp.obj"
+  "CMakeFiles/competitiveprogramming.dir/C_/Users/deyiz/CLionProjects/competitiveprogramming/doneProblems/CCC_2021_Senior_Modern_Art_S2.cpp.obj"
   "competitiveprogramming.exe"
   "competitiveprogramming.exe.manifest"
   "competitiveprogramming.pdb"

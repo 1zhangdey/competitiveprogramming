@@ -8,8 +8,8 @@ int main(){
     char choice; int number;
     cin>>m>>n;
     char arr[m][n];
-    for(int i = 0;i<m;i++){
-        for(int j = 0;j<n;j++){
+    for(int i = 0;i<m;i++) {
+        for (int j = 0; j < n; j++) {
             arr[i][j] = 'B';
         }
     }
@@ -23,12 +23,6 @@ int main(){
                 } else {
                     arr[i][number] = 'B';
                 }
-//            }
-//            for(int i = 0;i<m;i++){
-//                if (arr[number][i] =='B'){
-//                    arr[number][i] ='G';
-//                }else{
-//                    arr[number][i] ='B';
             }
         } else {
             for (int i = 0; i < m; i++) {
@@ -39,11 +33,6 @@ int main(){
                 }
             }
         }
-//            for(int i = 0;i<n;i++){
-//                if (arr[i][number] =='B'){
-//                    arr[i][number] ='G';
-//                }else{
-//                    arr[i][number] ='B';
     }
     for(int i = 0;i<m;i++){
         for(int j = 0;j<n;j++){

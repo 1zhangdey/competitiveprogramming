@@ -4,4 +4,4 @@ project(competitiveprogramming)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(competitiveprogramming
-        "../Snacktower (CF767-D2-A).cpp")
+        "../doneProblems/CCC 2021 Senior Modern Art S2.cpp")
